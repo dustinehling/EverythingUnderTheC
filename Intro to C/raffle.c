@@ -1,3 +1,6 @@
+//COP 3223
+//Assignment 7
+
 //Header
 #include <stdio.h>
 #include <string.h>
