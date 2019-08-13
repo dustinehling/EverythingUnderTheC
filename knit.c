@@ -1,5 +1,4 @@
 // COP 3223C-0003
-// 09/02/2016
 // Project 1
 
 // Included Libraries
